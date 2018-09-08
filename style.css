@@ -10,6 +10,8 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+/* styles console */
+
 .screen {
   margin: 0 auto;
   width: 650px;
@@ -55,6 +57,8 @@ body {
   box-sizing: border-box;
   padding: 5px;
 }
+
+/* styles of control buttons*/
 
 .redBut, .yellowBut, .greenBut {
   width: 15px;
