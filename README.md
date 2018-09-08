@@ -1,4 +1,3 @@
-```c#
-public static void Main() {
-  Console.WriteLine("Hello, World!");
-}
+# typed.js example
+
+## looks like a macos terminal
